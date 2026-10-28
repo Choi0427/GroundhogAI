@@ -1,0 +1,45 @@
+# Unity generated state (keep Assets + .meta, Packages, ProjectSettings)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ee]valuation/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/Assets/StreamingAssets/aa.meta
+/Assets/StreamingAssets/aa/
+/Assets/Resources/PerformanceTestRunInfo.json*
+/Assets/Resources/PerformanceTestRunSettings.json*
+
+# IDE and local tools
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+.vs/
+.idea/
+.vscode/
+.codex/
+.agents/
+
+# Local secrets, logs and crash dumps
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
+*.log
+*.dmp
+sysinfo.txt
+crash.dmp
+.DS_Store
+Thumbs.db
+Desktop.ini

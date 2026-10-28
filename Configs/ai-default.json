@@ -1,0 +1,17 @@
+{
+  "version": "heuristic-v1",
+  "riskWeight": 12.0,
+  "wallWeight": 2.0,
+  "escapeSpaceWeight": 3.0,
+  "movementContinuityWeight": 0.2,
+  "predictionSeconds": 1.0,
+  "safetyMargin": 30.0,
+  "wallMargin": 80.0,
+  "targetThreatWeight": 3.0,
+  "targetWoundedWeight": 1.5,
+  "targetDistanceWeight": 1.0,
+  "targetPersistenceWeight": 0.3,
+  "decisionIntervalSeconds": 0.048,
+  "movementCandidates": 8,
+  "predictionSamples": 6
+}
